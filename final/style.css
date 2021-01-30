@@ -1,0 +1,25 @@
+.header {
+    margin-top: 10px;
+    height: 100px;
+    width: 100%;
+	text-align: center;
+}
+
+#text_forecast {
+    text-align: center;
+    width: 20%;
+	height: 1000px;
+    float: left;
+	position: relative;
+}
+
+#hourly_forecast {
+    float: left;
+	position: relative;
+}
+
+#daily_forecast {
+	height: 600px;
+    float: left;
+	position: relative;
+}
